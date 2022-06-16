@@ -34,7 +34,7 @@ The full video in my Youtube channel [link](https://youtube.com/shorts/GBCF6Yu25
 
 ## GIF
 <p align="center">
-<img src="screenshots/4.gif" height="700">
+<img src="screenshots/1.gif" height="700">
 <img src="screenshots/2.gif" height="700">
 <img src="screenshots/3.gif" height="700">
 </p>
